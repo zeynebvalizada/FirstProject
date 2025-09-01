@@ -1,0 +1,15 @@
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\bin\Debug\net8.0\Practices1.exe
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\bin\Debug\net8.0\Practices1.deps.json
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\bin\Debug\net8.0\Practices1.runtimeconfig.json
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\bin\Debug\net8.0\Practices1.dll
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\bin\Debug\net8.0\Practices1.pdb
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\obj\Debug\net8.0\Practices1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\obj\Debug\net8.0\Practices1.AssemblyInfoInputs.cache
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\obj\Debug\net8.0\Practices1.AssemblyInfo.cs
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\obj\Debug\net8.0\Practices1.csproj.CoreCompileInputs.cache
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\obj\Debug\net8.0\Practices1.sourcelink.json
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\obj\Debug\net8.0\Practices1.dll
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\obj\Debug\net8.0\refint\Practices1.dll
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\obj\Debug\net8.0\Practices1.pdb
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\obj\Debug\net8.0\Practices1.genruntimeconfig.cache
+C:\Users\Leyla\Desktop\Zeynab\CodeLank\Practice\Practices1\Practices1\obj\Debug\net8.0\ref\Practices1.dll

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Leyla\\Desktop\\Zeynab\\CodeLank\\Practice\\Practices1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C2DBE5B-F7D4-4846-9AE1-28FD605EE4A6}|Practices1\\Practices1.csproj|c:\\users\\leyla\\desktop\\zeynab\\codelank\\practice\\practices1\\practices1\\castingarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2DBE5B-F7D4-4846-9AE1-28FD605EE4A6}|Practices1\\Practices1.csproj|solutionrelative:practices1\\castingarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C2DBE5B-F7D4-4846-9AE1-28FD605EE4A6}|Practices1\\Practices1.csproj|c:\\users\\leyla\\desktop\\zeynab\\codelank\\practice\\practices1\\practices1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2DBE5B-F7D4-4846-9AE1-28FD605EE4A6}|Practices1\\Practices1.csproj|solutionrelative:practices1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2DBE5B-F7D4-4846-9AE1-28FD605EE4A6}|Practices1\\Practices1.csproj|c:\\users\\leyla\\desktop\\zeynab\\codelank\\practice\\practices1\\practices1\\weekname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2DBE5B-F7D4-4846-9AE1-28FD605EE4A6}|Practices1\\Practices1.csproj|solutionrelative:practices1\\weekname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C2DBE5B-F7D4-4846-9AE1-28FD605EE4A6}|Practices1\\Practices1.csproj|c:\\users\\leyla\\desktop\\zeynab\\codelank\\practice\\practices1\\practices1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CastingArray.cs",
+              "DocumentMoniker": "C:\\Users\\Leyla\\Desktop\\Zeynab\\CodeLank\\Practice\\Practices1\\Practices1\\CastingArray.cs",
+              "RelativeDocumentMoniker": "Practices1\\CastingArray.cs",
+              "ToolTip": "C:\\Users\\Leyla\\Desktop\\Zeynab\\CodeLank\\Practice\\Practices1\\Practices1\\CastingArray.cs",
+              "RelativeToolTip": "Practices1\\CastingArray.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:52:45.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeekName.cs",
+              "DocumentMoniker": "C:\\Users\\Leyla\\Desktop\\Zeynab\\CodeLank\\Practice\\Practices1\\Practices1\\WeekName.cs",
+              "RelativeDocumentMoniker": "Practices1\\WeekName.cs",
+              "ToolTip": "C:\\Users\\Leyla\\Desktop\\Zeynab\\CodeLank\\Practice\\Practices1\\Practices1\\WeekName.cs",
+              "RelativeToolTip": "Practices1\\WeekName.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:05:15.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\Leyla\\Desktop\\Zeynab\\CodeLank\\Practice\\Practices1\\Practices1\\Calculator.cs",
               "RelativeDocumentMoniker": "Practices1\\Calculator.cs",
@@ -30,18 +64,17 @@
               "RelativeToolTip": "Practices1\\Calculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T19:01:17.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T19:01:17.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Leyla\\Desktop\\Zeynab\\CodeLank\\Practice\\Practices1\\Practices1\\Program.cs",
               "RelativeDocumentMoniker": "Practices1\\Program.cs",
               "ToolTip": "C:\\Users\\Leyla\\Desktop\\Zeynab\\CodeLank\\Practice\\Practices1\\Practices1\\Program.cs",
               "RelativeToolTip": "Practices1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T18:59:59.954Z",
               "EditorCaption": ""
